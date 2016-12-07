@@ -1,3 +1,4 @@
 def get_haiku():
 
-    return 'nothing'
+    return '''On a branch ...
+                  by Kobayashi Issa'''
